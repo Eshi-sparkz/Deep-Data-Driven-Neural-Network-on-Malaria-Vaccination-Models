@@ -5,12 +5,12 @@ This repository contains the research, mathematical models, and simulation code 
 
 🧠 Overview
 
-Malaria continues to be a major global health issue, particularly in Sub-Saharan Africa. This research develops a deep data-driven mathematical model that integrates epidemiological modeling and machine learning to predict and optimize malaria vaccination outcomes—focusing on the RTS,S/AS01 malaria vaccine program in Ghana.
+Malaria continues to be a major global health issue, particularly in Sub-Saharan Africa. This research develops a deep, data-driven mathematical model that integrates epidemiological modeling and machine learning to predict and optimize malaria vaccination outcomes, focusing on the RTS,S/AS01 malaria vaccine program in Ghana.
 
 📊 Key Features
 
 Mathematical Modeling:
-Formulation of a compartmental vaccination model (Susceptible–Infected–Recovered–Vaccinated) using differential equations.
+Formulation of a compartmental vaccination model (Susceptible, Infected, Recovered, Vaccinated) using differential equations.
 
 Epidemiological Analysis:
 
@@ -24,7 +24,7 @@ Deep Learning Integration:
 
 Neural networks used to learn and predict vaccination dynamics
 
-Models include ResNet, LSTM, GRU, BiLSTM, and hybrid variants (ResNet-LSTM, ResNet-GRU, etc.)
+Models include ResNet, LSTM, GRU, BiLSTM, and hybrid variants (such as ResNet-LSTM and ResNet-GRU).
 
 Implemented using TensorFlow and Keras
 
